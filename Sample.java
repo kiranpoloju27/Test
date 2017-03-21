@@ -1,7 +1,7 @@
-public class Simple{
+class Simple{
    public static void main(String args[]) 
    {
-     //Prints "Hello JavaPoint"
+     //Prints "Hello ...JavaPoint"
 	System.out.println("hello javatpoint");
    }
 }
