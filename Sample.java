@@ -1,7 +1,7 @@
 class Simple{
    public static void main(String args[]) 
    {
-     //Prints "Hello ...JavaPoint"
+     //Prints abcd"Hello ...JavaPoint"
 	System.out.println("hello javatpoint");
    }
 }
