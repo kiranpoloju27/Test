@@ -1,4 +1,7 @@
 public class Simple{
-public static void main(String args[]){
-System.out.println("hello javatpoint");
-}}
+   public static void main(String args[]) 
+   {
+     //Prints "Hello JavaPoint"
+	System.out.println("hello javatpoint");
+   }
+}
