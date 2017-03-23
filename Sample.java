@@ -2,6 +2,6 @@ class Simple{
    public static void main(String args[]) 
    {
      //Prints abcd"Hello dear m ...JavaPoint"
-	System.out.println("hello my dear javatpoint");
+	System.out.println("hello mydear@javatpoint");
    }
 }
