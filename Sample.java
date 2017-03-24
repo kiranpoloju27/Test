@@ -1,4 +1,4 @@
-class SavingsAccount()
+class SavingsAccount
 {
 	private double balance;
 	private double interest;
