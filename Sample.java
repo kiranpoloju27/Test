@@ -2,13 +2,11 @@ class SavingsAccount
 {
 	private double balance;
 	private double interest;
-
 	public SavingsAccount()
 	{
 		balance = 0;
 		interest = 0;
 	}
-
 	public SavingsAccount(double initialBalance, double initialInterest)
 	{
 		balance = initialBalance;
