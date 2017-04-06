@@ -1,6 +1,6 @@
 class SavingsAccount
 {
-	private double balance;
+# test	private double balance;
 	private double interest;
 	public SavingsAccount()
 	{
